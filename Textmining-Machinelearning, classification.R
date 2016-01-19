@@ -1,0 +1,10 @@
+term <- c("the ", "she", " wh")
+(class(out) <- with(raj.act.1,  termco(dialogue, person, term)))
+?with
+plot(out)
+scores(out)
+plot(scores(out))
+counts(out)
+plot(counts(out))
+proportions(out)
+plot(proportions(out))
