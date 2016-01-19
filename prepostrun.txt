@@ -1,0 +1,8 @@
+process type
+equilibration
+calibration 
+washing
+substance
+reagent 
+process duration 
+flow rate 

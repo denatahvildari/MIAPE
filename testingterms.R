@@ -1,0 +1,8 @@
+general <- scan ("/Users/denatahvildari/Desktop/TextAnalysiswithR/general.txt", what = "character", sep = "\n")
+mobilephase <- scan ("/Users/denatahvildari/Desktop/TextAnalysiswithR/mobilephase.txt", what = "character", sep = "\n")
+equipment <- scan ("/Users/denatahvildari/Desktop/TextAnalysiswithR/equipment.txt", what = "character", sep = "\n")
+sample <- scan ("/Users/denatahvildari/Desktop/TextAnalysiswithR/Sample.txt", what = "character", sep = "\n")
+columnrun <- scan ("/Users/denatahvildari/Desktop/TextAnalysiswithR/columnrun.txt", what = "character", sep = "\n")
+prepostrun <- scan ("/Users/denatahvildari/Desktop/TextAnalysiswithR/prepostrun.txt", what = "character", sep = "\n")
+columnoutput <- scan ("/Users/denatahvildari/Desktop/TextAnalysiswithR/columnoutput.txt", what = "character", sep = "\n")
+miapeterms <- scan ("/Users/denatahvildari/Desktop/TextAnalysiswithR/miapeterms.txt", what = "character", sep = "\n")

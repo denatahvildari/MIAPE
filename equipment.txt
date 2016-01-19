@@ -1,0 +1,24 @@
+column manufacturer           
+column model                  
+column type                    
+separation mechanism        
+affinity                      
+anion exchange                
+cation exchange            
+reverse phase                 
+hydrodynamic volume          
+column physical characteristic
+column dimensions             
+total volume                 
+length                        
+inner diameter                
+stationary phase              
+particle size                 
+packing materials             
+monoliths                    
+guards                        
+traps                         
+chromatography system         
+software                      
+separation mode 
+dimension 

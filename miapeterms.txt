@@ -1,0 +1,83 @@
+date stamp
+institutional role
+name
+affiliation
+contact information
+sample
+sample volume
+sample concentration
+sample source
+sample molecular mass
+tags
+pH
+buffer 
+sample pre treatment
+injection volume
+inline 
+offline
+direct
+full loop
+partial loop
+flush condition 
+sample storage temperature
+column manufacturer
+column model
+column type
+separation mechanism
+affinity
+anion exchange
+cation exchange
+reverse phase
+hydrodynamic volume
+column physical characteristic
+column dimensions
+total volume
+length 
+inner diameter 
+stationary phase 
+particle size 
+packing materials 
+monoliths
+guards
+traps
+chromatography system
+software
+separation mode
+dimension 
+mobile phase
+constituent
+column run
+time
+gradient
+flow rate
+temperature
+process type
+equilibration
+calibration
+washing
+substance
+reagent
+rate
+process duration
+detection
+detector
+uv detector
+ms detector
+data collection duration
+equipment setting
+control properties
+wavelength 
+time range
+trace
+trace location
+trace format
+fraction name
+fraction size
+fraction collection procedure 
+start time 
+end time
+fraction volume
+fraction mode
+fixed 
+peak
+collection time

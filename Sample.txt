@@ -1,0 +1,19 @@
+sample
+sample source
+sample concentration 
+sample molcular mass
+tags
+buffer
+pH
+injection volume
+inline
+offline
+direct
+full loop
+sample pre treatment 
+partial loop 
+flush condition 
+sample storage temperature 
+sample volume
+
+

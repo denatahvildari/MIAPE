@@ -1,0 +1,22 @@
+detection
+detector
+uv detector
+ms detector
+data collection duration
+equipment setting
+control properties
+wavelength 
+time range
+trace
+trace location
+trace format
+fraction name
+fraction size
+fraction collection procedure 
+start time 
+end time
+fraction volume
+fraction mode
+fixed 
+peak
+collection time

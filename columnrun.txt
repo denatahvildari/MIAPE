@@ -1,0 +1,5 @@
+column run
+time
+gradient
+flow rate
+temperature
